@@ -2,7 +2,7 @@
   "name": "c",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "hello:make": "rm -f ./hello.out && gcc ./hello.c -o hello.out"
   },
   "keywords": ["C"],
   "author": "Lucas Lacerda",
