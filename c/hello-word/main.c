@@ -3,7 +3,6 @@
 
 int main(void) {
 	string name = "Lucas";
-	printf("Hello, %s!\n", name);	
 
-	return 0;
+	printf("Hello, %s!\n", name);
 }

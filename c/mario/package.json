@@ -1,10 +1,10 @@
 {
-  "name": "c",
+  "name": "mario",
   "version": "1.0.0",
   "scripts": {
     "make": "rm -f ./main.out && gcc ./main.c -o main.out"
   },
-  "keywords": ["C"],
-  "author": "Lucas Lacerda",
+  "keywords": [],
+  "author": "Lucas Leandro Costa Lacerda",
   "license": "ISC"
 }
