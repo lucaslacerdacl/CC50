@@ -2,7 +2,7 @@
   "name": "mario",
   "version": "1.0.0",
   "scripts": {
-    "make": "rm -f ./main.out && gcc ./main.c -o main.out"
+    "make": "rm -f ./main.out && gcc ./main.c -o main.out -lcs50"
   },
   "keywords": [],
   "author": "Lucas Leandro Costa Lacerda",
